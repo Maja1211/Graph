@@ -1,0 +1,3 @@
+C:/Users/Win 11/CLionProjects/graf/cmake-build-debug/CMakeFiles/graf.dir
+C:/Users/Win 11/CLionProjects/graf/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Win 11/CLionProjects/graf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
